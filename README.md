@@ -5,6 +5,8 @@ Original Paper link: https://arxiv.org/abs/2006.11239<br />
 <br />
 Sample Result after 7 epochs -<br />
 ![Alt text](/Results/image12.png?raw=true "Image Generated after 7 epochs")
+<br />
+<br />
 Details on architecture can be found here: https://drive.google.com/file/d/1grWzPINot13U4QXnJpZYW9eKyX62zywf/view?usp=share_link<br />
 <br />
 More results samples are in `Results/` subdirectory. <br />
