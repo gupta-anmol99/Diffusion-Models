@@ -7,6 +7,7 @@ Sample Result after 7 epochs -<br />
 ![Alt text](/Results/image12.png?raw=true "Image Generated after 7 epochs")
 <br />
 
+The dataset can be downloaded from Kaggle: https://www.kaggle.com/datasets/jessicali9530/celeba-dataset <br />
 
 Experiments run on Anaconda using Jupyter Notebook. Use the following commands in the Anaconda command prompt after activating your environment:<br />
 ```
