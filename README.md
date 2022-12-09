@@ -19,6 +19,7 @@ conda install -c anaconda numpy
 <br />
 
 Our trained model can be found here: https://drive.google.com/drive/folders/1NcRZPVq8WpLVjEH40XdN_gDpaMOpLvks?usp=share_link 
+<br />
 The model can be directly used after running the model definition in the `Block 9` of the Notebook using `torch.load('attention_model_newhead.pth')`
 <br />
 <br />
