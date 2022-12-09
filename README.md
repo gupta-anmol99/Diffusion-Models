@@ -7,7 +7,7 @@ Sample Result after 7 epochs -<br />
 ![Alt text](/Results/image12.png?raw=true "Image Generated after 7 epochs")
 <br />
 
-Experiments run on Anaconda using Jupyter Notebook. <br />
+Experiments run on Anaconda using Jupyter Notebook. Use the following commands in the Anaconda command prompt after activating your environment:<br />
 ```
 conda install -c pytorch pytorch
 conda install -c conda-forge matplotlib
@@ -16,7 +16,7 @@ conda install -c conda-forge einops
 conda install -c anaconda numpy
 ```
 <br />
-Our trained model can be found in `Models/` subdirectory. It can be directly used after running the model definition in the `Block 9` of the Notebook using following code:
+Our trained model can be found in `Models/` subdirectory. It can be directly used after running the model definition in the `Block 9` of the Notebook using following code:<br />
 ```
 model = torch.load('attention_model_newhead.pth')
 ```
