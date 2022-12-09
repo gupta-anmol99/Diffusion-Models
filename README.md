@@ -16,7 +16,7 @@ conda install -c conda-forge einops
 conda install -c anaconda numpy
 ```
 <br />
-Our trained model can be found in `Model/` subdirectory. It can be directly used after running the model definition in the `Block 9` of the Notebook using `torch.load()` <br />
+Our trained model can be found in `Model/` subdirectory. It can be directly used after running the model definition in the `Block 9` of the Notebook using  <br />
 
 
 Details on architecture can be found here: https://drive.google.com/file/d/1grWzPINot13U4QXnJpZYW9eKyX62zywf/view?usp=share_link<br />
